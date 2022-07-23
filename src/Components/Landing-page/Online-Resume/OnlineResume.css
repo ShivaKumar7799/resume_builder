@@ -1,0 +1,36 @@
+.online__resume__container{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.online__resume__text{
+  padding: 0px 15px;
+}
+.online-resume-text-h2{
+  color: #212529;
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
+.online-resume-text-2ndh2{
+  margin-top: 5px;
+}
+#online-resume-text-p {
+  font-size: 16px;
+  margin-bottom: 16px;
+}
+#online-resume-text-button{
+  padding: 10px 12px;
+  color: white;
+  background-color: #17a2b8 ;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+.online-resume-image > img{
+  width: 540px;
+  height: 308px;
+}
+#so-easy{
+  font-weight: 700;
+}
