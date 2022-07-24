@@ -1,0 +1,18 @@
+.resumeFeautures__container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.feauture__images__container{
+  width: 445px;
+}
+.feauture__image{
+  width: 445px;
+  height: 400px;
+}
+.resumeFeautures__textContainer{
+  width: 635px;
+}
+.resumeFeautures__title{
+  font-weight: 400;
+}

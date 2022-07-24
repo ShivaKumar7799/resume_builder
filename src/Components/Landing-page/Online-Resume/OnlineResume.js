@@ -11,7 +11,7 @@ function OnlineResume() {
         <button id='online-resume-text-button'> Get Started For Free</button>
       </div>
       <div className='online-resume-image' >
-        <img src='Images/online-resume-builder.png' alt='online-resume-builder' />
+        <img id='online-resume-image' src='Images/online-resume-builder.png' alt='online-resume-builder' />
       </div>
     </div>
   )

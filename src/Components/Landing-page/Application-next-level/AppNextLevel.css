@@ -1,0 +1,24 @@
+.nextLevel__container{
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  line-height: 1.5;
+  color: #212529;
+}
+.nextLevel__image > img{
+  width: 540px;
+  height: 308px;
+}
+.nextLevel__info{
+  width: 550px;
+  padding: 0px 15px;
+}
+.discoverMore__button{
+  padding: 10px 12px;
+  color: white;
+  background-color: #17a2b8 ;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  margin-top: 10px;
+}

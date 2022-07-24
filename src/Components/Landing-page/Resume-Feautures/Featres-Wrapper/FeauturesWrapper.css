@@ -1,0 +1,15 @@
+.feautureWrapper__container{
+  display: flex;
+  margin-top: 50px;
+}
+.feautureWrapper_icon{
+  margin-right: 20px;
+}
+.feautureWrapper__title{
+  margin-top: 0px;
+  font-weight: 400;
+}
+.feautureWrapper__text{
+  line-height: 30px;
+  letter-spacing : 0.5px
+}

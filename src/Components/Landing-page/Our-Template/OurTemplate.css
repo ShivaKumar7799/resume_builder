@@ -1,0 +1,15 @@
+.template__container{
+  margin: 0px 105px ;
+}
+.template__cards__container{
+  display: grid;
+  grid-template-columns: repeat(4,1fr);
+}
+.template__title{
+  font-size: 32px;
+  margin: 24px 0px;
+  font-weight: 500;
+}
+.template__text{
+  font-size: 20px;
+}
