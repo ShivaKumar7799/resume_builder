@@ -1,5 +1,10 @@
 .customerFeedback__container{
   margin-top: 50px;
+  background-image: url(../../../../public/Images/feedback-images/feedback-background.png);
+}
+.customerFeedback__container h1{
+  font-weight: 400;
+  padding-top: 30px;
 }
 .feedback__heading{
   text-align: center;

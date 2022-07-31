@@ -1,0 +1,28 @@
+.footer__container{
+  background-color: #272727;
+}
+.footer__header h2{
+  color: #17a2b8;
+  margin-bottom: 10px;
+}
+.footer__header p{
+  font-weight: 500;
+  margin: 3px;
+}
+.footer__header{
+  color: white;
+}
+.footer__copyWrite{
+  color: #6c757d;
+  text-align: center;
+}
+.footer__copyWrite p{
+  margin: 0px;
+  padding-bottom: 20px;
+}
+.footer__flex{
+  display: flex;
+  padding: 16px 15px;
+  margin: 0px 70px 10px;
+  column-gap: 250px;
+}

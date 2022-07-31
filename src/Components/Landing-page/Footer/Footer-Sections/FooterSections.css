@@ -1,0 +1,10 @@
+.footer__links{
+  color: #87ceeb;
+  text-decoration: none;
+}
+.footer__links:hover{
+  text-decoration: underline;
+}
+.footer__section{
+  padding-bottom: 6px;
+}

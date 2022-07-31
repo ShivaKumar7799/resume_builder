@@ -1,0 +1,32 @@
+.feedback__form__container form{
+  display: flex;
+  flex-direction: column;
+  width: 45%;
+  margin-left: 50px;
+}
+.feedback__heading{
+  text-align: center;
+}
+.feedback__form__container{
+  display: flex;
+}
+form > input, form > textarea{
+  height: 26px;
+  padding : 6px 12px;
+  margin-bottom: 16px;
+}
+form > select{
+  height: 44px;
+  padding : 6px 12px;
+  margin-bottom: 16px;
+}
+form > label{
+  margin-bottom: 8px;
+}
+.feedback__form__rightContent{
+  margin-left: 80px;
+}
+form > button{
+  width: 80px;
+  padding: 10px 0px;
+}

@@ -1,3 +1,22 @@
 .feedback__container{
   display: flex;
 }
+.feedback__person__details {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 30px;
+}
+.feedback__person__details > img{
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+.feedback__data__container{
+  width: 450px;
+  padding: 0px 40px;
+  letter-spacing: 0.8px;
+  font-style : italic;
+  margin-bottom: 50px;
+}
