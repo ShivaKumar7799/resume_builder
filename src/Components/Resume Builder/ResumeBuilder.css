@@ -1,0 +1,9 @@
+.resume__container{
+  display: flex;
+}
+.left__content{
+  width: 25%;
+}
+.right__content{
+  width: 75%;
+}
