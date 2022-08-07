@@ -7,6 +7,7 @@ import Header from './Header/Header';
 import OnlineResume from './Online-Resume/OnlineResume';
 import OurTemplate from './Our-Template/OurTemplate';
 import ResumeFeautures from './Resume-Feautures/ResumeFeautures';
+import Madhu1 from './Madhusudhan/madhu1';
 function LandingPage() {
   return (
     <div>
@@ -17,6 +18,7 @@ function LandingPage() {
               <OurTemplate />
               <CustomerFeedBack />
               <FeedBackForm />
+              <Madhu1 />
               <Footer />
     </div>
   )
